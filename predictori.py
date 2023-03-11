@@ -76,7 +76,7 @@ async def mines(ctx):
     row5 = mine21 + mine22 + mine23 + mine24 + mine25
     info = str(random.randint(45, 90))
     # em = discord.Embed(color=0x11F1D3)
-    # em.set_footer(text="Made by GmertiBegi (real)")
+    # em.set_footer(text="Made by shama (real)")
     # em.add_field(name="Mines predictor",value=row1 + "\n" + row2 + "\n" + row3 + "\n" + row4 +"\n" + row5 + "\n" + "**Accuracy (totally not fake)**" + "\n" + info +"%")
     await ctx.reply(row1 + "\n" + row2 + "\n" + row3 + "\n" + row4 +"\n" + row5 + "\n" + "**Accuracy (totally not fake)**" + "\n" + info +"%")
 
