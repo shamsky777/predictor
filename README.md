@@ -1,0 +1,4 @@
+# predictor
+
+discord bot 
+.mines
