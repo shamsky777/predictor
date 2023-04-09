@@ -81,5 +81,5 @@ async def mines(ctx):
     await ctx.reply(row1 + "\n" + row2 + "\n" + row3 + "\n" + row4 +"\n" + row5 + "\n" + "**Accuracy (totally not fake)**" + "\n" + info +"%")
 
 
-bot.run("ODg4ODc4ODY4NjkyMzY5NDUw.GiT45h.bdpyGIyCOc9DH3AAGrYuB5XyHvyyh7XrgkvS7A")
+bot.run("")
         
