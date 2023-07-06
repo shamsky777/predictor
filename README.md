@@ -2,5 +2,4 @@
 
 discord bot 
 .mines
-
-![predictor](https://github.com/shamsky777/predictor/assets/111402885/ed139b4f-1ff0-4d22-b9be-c1f6f1f60cd8)
+![predictor](https://github.com/shamsky777/predictor/assets/111402885/c51978d4-194d-48c8-b606-b5b56577dd55)
